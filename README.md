@@ -1,7 +1,7 @@
 # TAO_wallets_gen
-##Generate cold and hot wallets 
+## Generate cold and hot wallets 
 
-###Usage:
+### Usage:
 
 wget https://github.com/TidalWavesNode/TAO_wallets_gen/blob/main/wallets.sh
 
@@ -9,7 +9,7 @@ chmod +x wallet.sh
 
 bash wallet.sh
 
-###What it does:
+### What it does:
 
 Prompts you for Coldwallet name
 
