@@ -10,8 +10,13 @@ bash wallet.sh
 
 
 Prompts you for Coldwallet name
+
 Generates new cold wallet without a password
+
 Prompts you for HotWallet amount
+
 Generates X number of hotwallets named in numerical order
+
 Shows all created wallets 
+
 backs up seed phrases to WALLETBACKUPS file
