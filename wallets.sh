@@ -29,7 +29,7 @@ register_hot_wallets() {
         read -p "Enter netuid: " SN
 
         for ((i=1; i<=$num_hot_wallets; i++)); do
-            HName="hotwallet_$i"
+            HName="$i"
             btcli s register --netuid $SN --wallet.name $COLD --wallet.hotkey $HName --subtensor.network finney --no_prompt
             sleep 10
         done
