@@ -3,7 +3,7 @@
 
 ### Usage:
 
-wget https://github.com/TidalWavesNode/TAO_wallets_gen/blob/main/wallets.sh
+wget https://raw.githubusercontent.com/TidalWavesNode/TAO_wallets_gen/main/wallets.sh
 
 chmod +x wallet.sh
 
