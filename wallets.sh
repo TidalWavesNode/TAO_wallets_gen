@@ -23,7 +23,7 @@ show_wallet_list() {
 }
 
 # Redirect output to WALLETBACKUPS file
-exec > >(tee -a $COLD_WALLETBACKUPS)
+exec > >(tee -a WALLETBACKUPS)
 
 # Main script
 
