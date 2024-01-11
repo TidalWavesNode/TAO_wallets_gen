@@ -21,4 +21,4 @@ Generates X number of hotwallets named in numerical order
 
 Shows all created wallets 
 
-backs up seed phrases to COLDWALLETNAME_WALLETBACKUPS file
+backs up seed phrases and wallet list to WALLETBACKUPS file
